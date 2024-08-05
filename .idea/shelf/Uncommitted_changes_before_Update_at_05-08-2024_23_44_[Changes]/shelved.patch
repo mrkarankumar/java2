@@ -1,0 +1,73 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"37615b48-1ff8-4276-8a62-b9f58b46a33a\" name=\"Changes\" comment=\"commit\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/material_theme_project_new.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/material_theme_project_new.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--follow-tags\" />\r\n        <option name=\"title\" value=\"Current Branch\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"mrkarankumar\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/mrkarankumar/java2\",\r\n    \"accountId\": \"a496d18a-d83d-40d2-80f8-4a7a955d96c0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2kFWTIYRDvJDUVL6qeGmp4SwKWN\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.karan.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/karan/OneDrive/Desktop/java2/untitled/src/Main.java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.karan\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"untitled\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"karan\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"karan\" />\r\n      <module name=\"untitled\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.karan\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"37615b48-1ff8-4276-8a62-b9f58b46a33a\" name=\"Changes\" comment=\"\" />\r\n      <created>1722879811081</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1722879811081</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722880197008</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722880197008</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722880603815</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722880603815</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722880771516</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722880771516</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722880925371</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722880925371</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722881050890</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722881050890</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"second commit\" />\r\n    <MESSAGE value=\"commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ebb6a3d08aedaf6ab4bbf51a533f99e7588d1d3d)
++++ b/.idea/workspace.xml	(date 1722881620137)
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="commit">
+-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -132,8 +129,27 @@
+       <option name="project" value="LOCAL" />
+       <updated>1722881050890</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="commit">
++      <option name="closed" value="true" />
++      <created>1722881259147</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1722881259147</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="second commit" />
+Index: .idea/material_theme_project_new.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"MaterialThemeProjectNewConfig\">\r\n    <option name=\"metadata\">\r\n      <MTProjectMetadataState>\r\n        <option name=\"userId\" value=\"1002e085:191239f5ad5:-7fd3\" />\r\n      </MTProjectMetadataState>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/material_theme_project_new.xml b/.idea/material_theme_project_new.xml
+--- a/.idea/material_theme_project_new.xml	(revision ebb6a3d08aedaf6ab4bbf51a533f99e7588d1d3d)
++++ b/.idea/material_theme_project_new.xml	(date 1722881620161)
+@@ -3,7 +3,10 @@
+   <component name="MaterialThemeProjectNewConfig">
+     <option name="metadata">
+       <MTProjectMetadataState>
+-        <option name="userId" value="1002e085:191239f5ad5:-7fd3" />
++        <option name="migrated" value="true" />
++        <option name="pristineConfig" value="false" />
++        <option name="userId" value="-55d83119:18dff5ee974:-8000" />
++        <option name="version" value="8.13.2" />
+       </MTProjectMetadataState>
+     </option>
+   </component>
