@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Challenge1/LeftHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge1/pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge1/pattern2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java commit">
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/10Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/11TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/12SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/13CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/14FahrenheitToCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/7Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/8Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/9Floating_multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/Order_of_operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/Shorthand_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/Unary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_44__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_44__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_59__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_00_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_00_04__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +35,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mrkarankumar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mrkarankumar/java2&quot;,
+    &quot;accountId&quot;: &quot;a496d18a-d83d-40d2-80f8-4a7a955d96c0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -38,14 +67,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arithmetic.executor": "Run",
+    "Application.Assignment.executor": "Run",
+    "Application.Chalange2.Arithmetic.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.Floating_multiplication.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Order_of_operation.executor": "Run",
+    "Application.Perimeter.executor": "Run",
+    "Application.Shorthand_operator.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.TriangleArea.executor": "Run",
+    "Application.Unary.executor": "Run",
+    "Application.UserInput.executor": "Run",
     "Application.Variable.executor": "Run",
+    "Application.Variables.executor": "Run",
+    "Application.Welcome.executor": "Run",
     "Application.karan34.executor": "Run",
+    "Application.pyramid.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/karan/OneDrive/Desktop/java2/java2/src",
-    "onboarding.tips.debug.path": "C:/Users/karan/OneDrive/Desktop/java2/untitled/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/karan/OneDrive/Desktop/java2/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,20 +102,13 @@
       <recent name="C:\Users\karan\OneDrive\Desktop\java2\java2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Variables">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Types_and_variable.Variable" />
+  <component name="RunManager" selected="Application.FahrenheitToCelsius">
+    <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.CompoundInterest" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Data_Types_and_variable.*" />
+          <option name="PATTERN" value="Chalange2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +116,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Types.Variables" />
+    <configuration name="FahrenheitToCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.FahrenheitToCelsius" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Data_Types.*" />
+          <option name="PATTERN" value="Chalange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Perimeter" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chalange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.SimpleInterest" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chalange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.TriangleArea" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chalange2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,9 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Variable" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FahrenheitToCelsius" />
+        <item itemvalue="Application.CompoundInterest" />
+        <item itemvalue="Application.SimpleInterest" />
+        <item itemvalue="Application.TriangleArea" />
+        <item itemvalue="Application.Perimeter" />
       </list>
     </recent_temporary>
   </component>
@@ -112,12 +195,176 @@
       <option name="project" value="LOCAL" />
       <updated>1722886498873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="karan34">
+      <option name="closed" value="true" />
+      <created>1722887484049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722887484049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="data types">
+      <option name="closed" value="true" />
+      <created>1722887652553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722887652553</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pyramid commit">
+      <option name="closed" value="true" />
+      <created>1722968675497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722968675497</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pyramid commit">
+      <option name="closed" value="true" />
+      <created>1722968690839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722968690839</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java commit">
+      <option name="closed" value="true" />
+      <created>1722977514510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722977514510</updated>
+    </task>
+    <task id="LOCAL-00007" summary="java commit">
+      <option name="closed" value="true" />
+      <created>1722977542068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722977542068</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="karan34" />
-    <option name="LAST_COMMIT_MESSAGE" value="karan34" />
+    <MESSAGE value="data types" />
+    <MESSAGE value="pyramid commit" />
+    <MESSAGE value="java commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="java commit" />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="52ac32">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="52ac32" />
+              <option name="initiateTms" value="1722934926560" />
+              <option name="request" value=" code java" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To get assistance with Java code, I'd be happy to help you once you [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Once you have access to the platform, you can receive support with Java code and take advantage of the additional capabilities available for Java developers.&#10;&#10;Feel free to let me know if you have any questions about the sign-in or subscription process!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1722934928619" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="7892a1">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="7892a1" />
+              <option name="initiateTms" value="1722934964915" />
+              <option name="request" value=" java first code" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To get assistance with your first Java code, I'd be happy to help you once you [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Once you have access to the platform, you can receive guidance and support with writing your first Java code.&#10;&#10;Let me know if you have any questions about the sign-in or subscription process!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1722934966826" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="890b99">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="890b99" />
+              <option name="initiateTms" value="1722934913668" />
+              <option name="request" value=" what is java" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Java is a popular programming language and computing platform used for developing a wide variety of applications. It is known for its platform independence, meaning that Java programs can run on any device that has a Java Virtual Machine (JVM) installed. This makes Java a versatile choice for developing software for desktop, web, and mobile applications.&#10;&#10;If you're interested in Java development, Machinet AI also offers additional capabilities for Java developers with an active subscription, such as an AI Unit Test agent specifically tuned for Java projects.&#10;&#10;To access these additional capabilities, you can [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Let me know if you have any more questions about Java or Machinet AI!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1722934916775" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d078f7">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="d078f7" />
+              <option name="initiateTms" value="1722934905078" />
+              <option name="request" value=" hello" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Hello! Welcome to Machinet AI. In order to use Machinet AI, please [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing). &#10;&#10;To sign in, please follow these steps:&#10;1. Press 'Sign In' button at the left corner of the chat inside IDE.&#10;2. You will then be automatically redirected to https://plugin.machinet.net website, where you will be prompted to sign in. The login form contains inputs for email and password.&#10;&#10;To subscribe to Machinet AI, you can choose a Pro or Max subscription at our [website](https://plugin.machinet.net/#pricing). You can also use a Pro Trial subscription to test Machinet AI for 10 days.&#10;&#10;Let me know if you need any further assistance!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1722934907617" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e9bfed">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="e9bfed" />
+              <option name="initiateTms" value="1722935068691" />
+              <option name="request" value=" code" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I'd be happy to help you with your code once you [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Once you have access to the platform, you can receive assistance with your code and take advantage of the additional capabilities available.&#10;&#10;Let me know if you need any further assistance with signing in or subscribing!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1722935070572" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="greeting">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="greeting" />
+              <option name="initiateTms" value="1722934897663" />
+              <option name="request" value="" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="&#10;Hello, I am Machinet AI - context aware chat, which can help you with your daily programming routine. How can I help?" />
+              <option name="responseTms" value="1722934899472" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
