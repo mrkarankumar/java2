@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java commit">
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/10Perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/11TriangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/12SimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/13CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/14FahrenheitToCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/7Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/8Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/9Floating_multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lector1/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lector1/Order_of_operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lector1/Shorthand_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lector1/Unary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_44__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_44__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05-08-2024_23_59__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_00_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_00_04__Changes_.xml" afterDir="false" />
+    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="relational">
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/15PositiveNegativeZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/16OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/17GreatestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/Logical_operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_01_05_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_01_05__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06-08-2024_01_23_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +34,6 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -56,6 +47,9 @@
     &quot;accountId&quot;: &quot;a496d18a-d83d-40d2-80f8-4a7a955d96c0&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Lector1/Logical_operator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -73,9 +67,16 @@
     "Application.CompoundInterest.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
     "Application.Floating_multiplication.executor": "Run",
+    "Application.GreatestOfThree.executor": "Run",
+    "Application.If_else.executor": "Run",
+    "Application.If_else2.executor": "Run",
+    "Application.Logical_operator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OddEven.executor": "Run",
     "Application.Order_of_operation.executor": "Run",
     "Application.Perimeter.executor": "Run",
+    "Application.PositiveNegativeZero.executor": "Run",
+    "Application.Relational.executor": "Run",
     "Application.Shorthand_operator.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.Sum.executor": "Run",
@@ -102,9 +103,9 @@
       <recent name="C:\Users\karan\OneDrive\Desktop\java2\java2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FahrenheitToCelsius">
-    <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.CompoundInterest" />
+  <component name="RunManager" selected="Application.GreatestOfThree">
+    <configuration name="GreatestOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.GreatestOfThree" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +117,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FahrenheitToCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.FahrenheitToCelsius" />
+    <configuration name="Logical_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lector1.Logical_operator" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lector1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.OddEven" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Perimeter" />
+    <configuration name="PositiveNegativeZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.PositiveNegativeZero" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -142,25 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.SimpleInterest" />
+    <configuration name="Relational" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lector1.Relational" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chalange2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.TriangleArea" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chalange2.*" />
+          <option name="PATTERN" value="Lector1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FahrenheitToCelsius" />
-        <item itemvalue="Application.CompoundInterest" />
-        <item itemvalue="Application.SimpleInterest" />
-        <item itemvalue="Application.TriangleArea" />
-        <item itemvalue="Application.Perimeter" />
+        <item itemvalue="Application.GreatestOfThree" />
+        <item itemvalue="Application.OddEven" />
+        <item itemvalue="Application.PositiveNegativeZero" />
+        <item itemvalue="Application.Logical_operator" />
+        <item itemvalue="Application.Relational" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +244,103 @@
       <option name="project" value="LOCAL" />
       <updated>1722977542068</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java commit">
+      <option name="closed" value="true" />
+      <created>1723028734417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723028734417</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1723040271712</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723040271712</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1723040324577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723040324577</updated>
+    </task>
+    <task id="LOCAL-00011" summary="If_else2">
+      <option name="closed" value="true" />
+      <created>1723040566508</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723040566508</updated>
+    </task>
+    <task id="LOCAL-00012" summary="If_else3">
+      <option name="closed" value="true" />
+      <created>1723040876590</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723040876590</updated>
+    </task>
+    <task id="LOCAL-00013" summary="If_else3">
+      <option name="closed" value="true" />
+      <created>1723040892071</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723040892071</updated>
+    </task>
+    <task id="LOCAL-00014" summary="If_else2">
+      <option name="closed" value="true" />
+      <created>1723041080120</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723041080120</updated>
+    </task>
+    <task id="LOCAL-00015" summary="If_else2">
+      <option name="closed" value="true" />
+      <created>1723041092019</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723041092019</updated>
+    </task>
+    <task id="LOCAL-00016" summary="If_else2">
+      <option name="closed" value="true" />
+      <created>1723041219675</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723041219675</updated>
+    </task>
+    <task id="LOCAL-00017" summary="If_else">
+      <option name="closed" value="true" />
+      <created>1723041241179</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723041241179</updated>
+    </task>
+    <task id="LOCAL-00018" summary="relational">
+      <option name="closed" value="true" />
+      <created>1723044196111</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723044196111</updated>
+    </task>
+    <task id="LOCAL-00019" summary="relational">
+      <option name="closed" value="true" />
+      <created>1723044207393</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723044207393</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,7 +349,14 @@
     <MESSAGE value="data types" />
     <MESSAGE value="pyramid commit" />
     <MESSAGE value="java commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="java commit" />
+    <MESSAGE value="ef else" />
+    <MESSAGE value="ef_else2" />
+    <MESSAGE value="If_else3" />
+    <MESSAGE value="If_else2" />
+    <MESSAGE value="If_else" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="relational" />
+    <option name="LAST_COMMIT_MESSAGE" value="relational" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -366,5 +470,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java2$If_else2.ic" NAME="If_else2 Coverage Results" MODIFIED="1723040468015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Data_Types.*</FILTER>
+    </SUITE>
   </component>
 </project>
