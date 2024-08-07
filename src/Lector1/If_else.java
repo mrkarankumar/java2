@@ -12,7 +12,7 @@ public class If_else {
 
         } else {
 
-            System.out.println("my name is karan kumar");
+            System.out.println("my name is rocky kumar");
 
         }
 
