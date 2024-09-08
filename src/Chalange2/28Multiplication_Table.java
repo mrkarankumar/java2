@@ -2,7 +2,7 @@ package Chalange2;
 
 import java.util.Scanner;
 
-public class Multiplication_Table {
+ class Multiplication_Table {
     public static void main(String[] args) {
         System.out.println("welcome to  multiplication  table ");
         Scanner scanner = new Scanner(System.in);

@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java commit">
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Multiplication_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/While2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/while_loop.java" afterDir="false" />
+    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="loop and function in java">
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/21Bitwise_And.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/22Bitwise_Or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/23Bitwise_Xor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/24Bitwise_Complement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/25Left_Shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/26Right_Shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/27Odd_Even_Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Factorial_NUMBER.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Challenge1/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge1/pattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +64,11 @@
   "keyToString": {
     "Application.Arithmetic.executor": "Run",
     "Application.Assignment.executor": "Run",
+    "Application.Bitwise_And.executor": "Run",
+    "Application.Bitwise_Or.executor": "Run",
     "Application.Chalange2.Arithmetic.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
+    "Application.Factorial_NUMBER.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
     "Application.Floating_multiplication.executor": "Run",
     "Application.Function.executor": "Run",
@@ -110,13 +115,39 @@
       <recent name="C:\Users\karan\OneDrive\Desktop\java2\java2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Multiplication_Table">
-    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.Function" />
+  <component name="RunManager" selected="Application.Bitwise_Or">
+    <configuration name="Bitwise_And" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Bitwise_And" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Function.*" />
+          <option name="PATTERN" value="Chalange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bitwise_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Bitwise_Or" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chalange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial_NUMBER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Factorial_NUMBER" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chalange2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +168,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.While2" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Function.for_loop" />
       <module name="untitled" />
@@ -163,26 +181,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="while_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.while_loop" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bitwise_Or" />
+        <item itemvalue="Application.Bitwise_And" />
+        <item itemvalue="Application.Factorial_NUMBER" />
         <item itemvalue="Application.Multiplication_Table" />
         <item itemvalue="Application.for_loop" />
-        <item itemvalue="Application.While2" />
-        <item itemvalue="Application.while_loop" />
-        <item itemvalue="Application.Function" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725632738433</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="loop and function in java">
+      <option name="closed" value="true" />
+      <created>1725804478079</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725804478079</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,9 +402,10 @@
     <MESSAGE value="If_else" />
     <MESSAGE value="relational" />
     <MESSAGE value="operator" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="java commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="java commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="loop and function in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop and function in java" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
