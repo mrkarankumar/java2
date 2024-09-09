@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="chalange java">
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Char_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Do_while_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Facttorial_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/For_Each_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/For_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Nested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Odd_or_Even_number_Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/natural_number_addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lector1/Natural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lector1/while1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java challange" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -401,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725858811596</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="java challange">
+      <option name="closed" value="true" />
+      <created>1725883196563</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725883196565</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,9 +423,10 @@
     <MESSAGE value="operator" />
     <MESSAGE value="java commit" />
     <MESSAGE value="loop and function in java" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="chalange java" />
-    <option name="LAST_COMMIT_MESSAGE" value="chalange java" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="java challange" />
+    <option name="LAST_COMMIT_MESSAGE" value="java challange" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
