@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="loop and function in java">
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/21Bitwise_And.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/22Bitwise_Or.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/23Bitwise_Xor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/24Bitwise_Complement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/25Left_Shift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/26Right_Shift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/27Odd_Even_Bitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Factorial_NUMBER.java" afterDir="false" />
+    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="chalange java">
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Char_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Do_while_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Facttorial_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/For_Each_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/For_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Odd_or_Even_number_Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/natural_number_addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/Natural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lector1/while1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +71,15 @@
     "Application.Bitwise_And.executor": "Run",
     "Application.Bitwise_Or.executor": "Run",
     "Application.Chalange2.Arithmetic.executor": "Run",
+    "Application.Char_Print.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
+    "Application.Do_while_Loop.executor": "Run",
     "Application.Factorial_NUMBER.executor": "Run",
+    "Application.Facttorial_2.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
     "Application.Floating_multiplication.executor": "Run",
+    "Application.For_Each_Loop.executor": "Run",
+    "Application.For_loop.executor": "Run",
     "Application.Function.executor": "Run",
     "Application.Grading.executor": "Run",
     "Application.GreatestOfThree.executor": "Run",
@@ -80,7 +89,11 @@
     "Application.Logical_operator.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Multiplication_Table.executor": "Run",
+    "Application.Natural.executor": "Run",
+    "Application.Nested.executor": "Run",
+    "Application.Odd.executor": "Run",
     "Application.OddEven.executor": "Run",
+    "Application.Odd_or_Even_number_Addition.executor": "Run",
     "Application.Order_of_operation.executor": "Run",
     "Application.Perimeter.executor": "Run",
     "Application.PositiveNegativeZero.executor": "Run",
@@ -94,12 +107,16 @@
     "Application.UserInput.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.Vole_And_Consonant.executor": "Run",
     "Application.Welcome.executor": "Run",
     "Application.While2.executor": "Run",
+    "Application.even.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.karan34.executor": "Run",
+    "Application.natural_number_addition.executor": "Run",
     "Application.pattern1.executor": "Run",
     "Application.pyramid.executor": "Run",
+    "Application.while1.executor": "Run",
     "Application.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -115,9 +132,9 @@
       <recent name="C:\Users\karan\OneDrive\Desktop\java2\java2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bitwise_Or">
-    <configuration name="Bitwise_And" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Bitwise_And" />
+  <component name="RunManager" selected="Application.Vole_And_Consonant">
+    <configuration name="Char_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Char_Print" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bitwise_Or" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Bitwise_Or" />
+    <configuration name="Odd_or_Even_number_Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Odd_or_Even_number_Addition" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial_NUMBER" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Factorial_NUMBER" />
+    <configuration name="Vole_And_Consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Vole_And_Consonant" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Multiplication_Table" />
+    <configuration name="even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.even" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -168,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.for_loop" />
+    <configuration name="natural_number_addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.natural_number_addition" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Function.*" />
+          <option name="PATTERN" value="Chalange2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bitwise_Or" />
-        <item itemvalue="Application.Bitwise_And" />
-        <item itemvalue="Application.Factorial_NUMBER" />
-        <item itemvalue="Application.Multiplication_Table" />
-        <item itemvalue="Application.for_loop" />
+        <item itemvalue="Application.Vole_And_Consonant" />
+        <item itemvalue="Application.Char_Print" />
+        <item itemvalue="Application.Odd_or_Even_number_Addition" />
+        <item itemvalue="Application.natural_number_addition" />
+        <item itemvalue="Application.even" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725804478079</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="chalange java">
+      <option name="closed" value="true" />
+      <created>1725858811596</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725858811596</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,9 +428,10 @@
     <MESSAGE value="relational" />
     <MESSAGE value="operator" />
     <MESSAGE value="java commit" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="loop and function in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="loop and function in java" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="chalange java" />
+    <option name="LAST_COMMIT_MESSAGE" value="chalange java" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
