@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java challange" />
+    <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java">
+      <change afterPath="$PROJECT_DIR$/src/Chalange2/Alphabet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Alphabet.executor": "Run",
     "Application.Arithmetic.executor": "Run",
     "Application.Assignment.executor": "Run",
     "Application.Bitwise_And.executor": "Run",
@@ -118,7 +121,20 @@
       <recent name="C:\Users\karan\OneDrive\Desktop\java2\java2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Vole_And_Consonant">
+  <component name="RunManager" selected="Application.Alphabet">
+    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Alphabet" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chalange2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Char_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chalange2.Char_Print" />
       <module name="untitled" />
@@ -158,19 +174,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.even" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chalange2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="natural_number_addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chalange2.natural_number_addition" />
       <module name="untitled" />
@@ -186,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Alphabet" />
         <item itemvalue="Application.Vole_And_Consonant" />
         <item itemvalue="Application.Char_Print" />
         <item itemvalue="Application.Odd_or_Even_number_Addition" />
         <item itemvalue="Application.natural_number_addition" />
-        <item itemvalue="Application.even" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725883196565</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="java">
+      <option name="closed" value="true" />
+      <created>1725883620022</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725883620022</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,9 +435,10 @@
     <MESSAGE value="java commit" />
     <MESSAGE value="loop and function in java" />
     <MESSAGE value="chalange java" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="java challange" />
-    <option name="LAST_COMMIT_MESSAGE" value="java challange" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="java" />
+    <option name="LAST_COMMIT_MESSAGE" value="java" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
