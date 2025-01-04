@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37615b48-1ff8-4276-8a62-b9f58b46a33a" name="Changes" comment="java">
-      <change afterPath="$PROJECT_DIR$/src/Chalange2/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraySumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge25/Even_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,8 @@
   "keyToString": {
     "Application.Alphabet.executor": "Run",
     "Application.Arithmetic.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.ArraySumAverage.executor": "Run",
     "Application.Assignment.executor": "Run",
     "Application.Bitwise_And.executor": "Run",
     "Application.Bitwise_Or.executor": "Run",
@@ -63,6 +69,7 @@
     "Application.Char_Print.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
     "Application.Do_while_Loop.executor": "Run",
+    "Application.Even_Odd.executor": "Run",
     "Application.Factorial_NUMBER.executor": "Run",
     "Application.Facttorial_2.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
@@ -99,6 +106,7 @@
     "Application.Vole_And_Consonant.executor": "Run",
     "Application.Welcome.executor": "Run",
     "Application.While2.executor": "Run",
+    "Application.array.executor": "Run",
     "Application.even.executor": "Run",
     "Application.for_loop.executor": "Run",
     "Application.karan34.executor": "Run",
@@ -121,9 +129,35 @@
       <recent name="C:\Users\karan\OneDrive\Desktop\java2\java2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Alphabet">
-    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Alphabet" />
+  <component name="RunManager" selected="Application.Even_Odd">
+    <configuration name="ArraySumAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArraySumAverage" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge25.Even_Odd" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenge25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Facttorial_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Facttorial_2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Char_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Char_Print" />
+    <configuration name="Multiplication_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chalange2.Multiplication_Table" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -148,38 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Odd_or_Even_number_Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Odd_or_Even_number_Addition" />
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.array" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chalange2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vole_And_Consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.Vole_And_Consonant" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chalange2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="natural_number_addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chalange2.natural_number_addition" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chalange2.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Alphabet" />
-        <item itemvalue="Application.Vole_And_Consonant" />
-        <item itemvalue="Application.Char_Print" />
-        <item itemvalue="Application.Odd_or_Even_number_Addition" />
-        <item itemvalue="Application.natural_number_addition" />
+        <item itemvalue="Application.Even_Odd" />
+        <item itemvalue="Application.array" />
+        <item itemvalue="Application.Multiplication_Table" />
+        <item itemvalue="Application.Facttorial_2" />
+        <item itemvalue="Application.ArraySumAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725883620022</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="java">
+      <option name="closed" value="true" />
+      <created>1725883820162</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725883820162</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,110 +459,14 @@
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
       <map>
-        <entry key="52ac32">
-          <value>
-            <ChatHistoryModel>
-              <option name="id" value="52ac32" />
-              <option name="initiateTms" value="1722934926560" />
-              <option name="request" value=" code java" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="To get assistance with Java code, I'd be happy to help you once you [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Once you have access to the platform, you can receive support with Java code and take advantage of the additional capabilities available for Java developers.&#10;&#10;Feel free to let me know if you have any questions about the sign-in or subscription process!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1722934928619" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="7892a1">
-          <value>
-            <ChatHistoryModel>
-              <option name="id" value="7892a1" />
-              <option name="initiateTms" value="1722934964915" />
-              <option name="request" value=" java first code" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="To get assistance with your first Java code, I'd be happy to help you once you [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Once you have access to the platform, you can receive guidance and support with writing your first Java code.&#10;&#10;Let me know if you have any questions about the sign-in or subscription process!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1722934966826" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="890b99">
-          <value>
-            <ChatHistoryModel>
-              <option name="id" value="890b99" />
-              <option name="initiateTms" value="1722934913668" />
-              <option name="request" value=" what is java" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="Java is a popular programming language and computing platform used for developing a wide variety of applications. It is known for its platform independence, meaning that Java programs can run on any device that has a Java Virtual Machine (JVM) installed. This makes Java a versatile choice for developing software for desktop, web, and mobile applications.&#10;&#10;If you're interested in Java development, Machinet AI also offers additional capabilities for Java developers with an active subscription, such as an AI Unit Test agent specifically tuned for Java projects.&#10;&#10;To access these additional capabilities, you can [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Let me know if you have any more questions about Java or Machinet AI!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1722934916775" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="d078f7">
-          <value>
-            <ChatHistoryModel>
-              <option name="id" value="d078f7" />
-              <option name="initiateTms" value="1722934905078" />
-              <option name="request" value=" hello" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="Hello! Welcome to Machinet AI. In order to use Machinet AI, please [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing). &#10;&#10;To sign in, please follow these steps:&#10;1. Press 'Sign In' button at the left corner of the chat inside IDE.&#10;2. You will then be automatically redirected to https://plugin.machinet.net website, where you will be prompted to sign in. The login form contains inputs for email and password.&#10;&#10;To subscribe to Machinet AI, you can choose a Pro or Max subscription at our [website](https://plugin.machinet.net/#pricing). You can also use a Pro Trial subscription to test Machinet AI for 10 days.&#10;&#10;Let me know if you need any further assistance!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1722934907617" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="e9bfed">
-          <value>
-            <ChatHistoryModel>
-              <option name="id" value="e9bfed" />
-              <option name="initiateTms" value="1722935068691" />
-              <option name="request" value=" code" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="I'd be happy to help you with your code once you [sign in](https://plugin.machinet.net/#signin) and [subscribe](https://plugin.machinet.net/#pricing) to Machinet AI. Once you have access to the platform, you can receive assistance with your code and take advantage of the additional capabilities available.&#10;&#10;Let me know if you need any further assistance with signing in or subscribing!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1722935070572" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/src/Data_Types/Variables.java" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
         <entry key="greeting">
           <value>
             <ChatHistoryModel>
               <option name="id" value="greeting" />
-              <option name="initiateTms" value="1722934897663" />
+              <option name="initiateTms" value="1735973314930" />
               <option name="request" value="" />
               <option name="response" value="" />
-              <option name="responseDescription" value="&#10;Hello, I am Machinet AI - context aware chat, which can help you with your daily programming routine. How can I help?" />
-              <option name="responseTms" value="1722934899472" />
+              <option name="responseTms" value="1735973316660" />
             </ChatHistoryModel>
           </value>
         </entry>
